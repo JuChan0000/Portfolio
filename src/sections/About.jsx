@@ -21,7 +21,6 @@ export default function About() {
         </div>
 
         <div className="mt-6 flex flex-wrap gap-3">
-          <LinkButton href="#">이력서(Resume).pdf</LinkButton>
           <LinkButton href="https://github.com/">GitHub</LinkButton>
           <LinkButton href="https://inexpensive-station-335.notion.site/27a59d391b7c80d39679ee27a4b1d116?source=copy_link">Notion / Blog</LinkButton>
         </div>
